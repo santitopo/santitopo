@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 🇺🇾 Uruguayan Systems Engineer from Universidad ORT, currently working as a 📱 Mobile Developer at December Labs. Here I have the opportunity to dive into challenging projects and create amazing mobile experiences for thousands of users in the 🇺🇸 USA.
+I'm a 🇺🇾 Uruguayan Computer Engineer graduated from Universidad ORT, currently working as a 📱 Mobile Developer at December Labs. Here I have the opportunity to dive into challenging projects and create amazing mobile experiences for thousands of users in the 🇺🇸 USA.
 
 🚀 Passionate about technology, I find joy in transforming complex problems into elegant solutions.  
 
